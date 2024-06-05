@@ -19,7 +19,7 @@ This page has information about public services running on Klaytn.
     * [NFTBank](https://nftbank.ai/)
 * Decentralized Finance & Related Services
   * Decentralized Exchanges
-    * [KaiaSwap](https://izumi.finance/home)
+    * [KaiaSwap](https://kaiaswap.org/trade/swap)
     * [Capybara](https://www.capybara.exchange/)
     * [Dragon Swap](https://dgswap.io/)
     * [KLAYswap](https://klayswap.com/)
