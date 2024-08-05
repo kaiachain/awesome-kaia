@@ -1,4 +1,4 @@
-# Awesome Klaytn [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Kaia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Kaia (KAIA) is a public blockchain designed for the metaverse, gaming, and the creator economy that delivers performance, decentralization, scalability and interoperability.
 
