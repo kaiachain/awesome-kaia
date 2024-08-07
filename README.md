@@ -100,6 +100,8 @@ This page introduces all links related to core and ecosystem development of Kaia
   - [COIN98](https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg)
   - [web3auth](https://web3auth.io/) - [Documentation](https://web3auth.io/docs/connect-blockchain/klaytn)
   - [ABC Wallet](https://chrome.google.com/webstore/detail/abc-wallet/mlhakagmgkmonhdonhkpjeebfphligng)
+  - [MetaMask](https://metamask.io/) - [Documentation](https://docs.metamask.io/)
+
 - Hardware Wallets
   - [D'CENT](https://dcentwallet.com/products/BiometricWallet)
   - [SafePal](https://www.safepal.com/en/)
