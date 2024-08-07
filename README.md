@@ -70,7 +70,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 ## Chain Data Explorers
 - [Klaytnfinder](https://klaytnfinder.io/)
 - [OKLink Klaytn Explorer](https://www.oklink.com/klaytn)
-- [KlaytnScope](https://scope.klaytn.com/)
+- [KaiaScope](https://scope.klaytn.com/)
 - [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
 - [Bitquery](https://explorer.bitquery.io/klaytn)
 
