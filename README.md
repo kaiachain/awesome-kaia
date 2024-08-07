@@ -104,7 +104,7 @@ This page introduces all links related to core and ecosystem development of Kaia
   - [D'CENT](https://dcentwallet.com/products/BiometricWallet)
   - [SafePal](https://www.safepal.com/en/)
 - Multisig Wallet 
-  - [Klaytn Safe](https://safe.klaytn.foundation/)
+  - [Kaia Safe](https://safe.kaia.io/welcome)
 
 ## SDKs
 - [kaiasdk](https://github.com/kaiachain/kaia-sdk) - a set of SDKs to interact with Kaia by extending existing web3 SDKs.
