@@ -54,17 +54,11 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Tech Blog Article List](https://github.com/kaiachain/awesome-kaia/blob/main/tech-blog.md) - Contains Latest articles and updates from the Kaia Tech Blog.
 
 ## Public Endpoints
-- By [Kaia Foundation](https://www.kaia.io/)
-  - As is: [https://public-en.node.kaia.io](https://public-en.node.kaia.io) 
-- By [BlockPI Network](https://blockpi.io/)
-  - As is: [https://klaytn.blockpi.network/v1/rpc/public](https://klaytn.blockpi.network/v1/rpc/public)
-  - To Be: 
-- By [All That Node](https://allthatnode.com/)
-  - As is: [https://klaytn-mainnet.g.allthatnode.com/full/evm](https://klaytn-mainnet.g.allthatnode.com/full/evm)
-  - To Be: 
-- By [Pocket network](https://docs.pokt.network/)
-  - As is: [https://klaytn-rpc.gateway.pokt.network/](https://klaytn-rpc.gateway.pokt.network/)
-  - To Be: 
+- By [Kaia Foundation](https://www.kaia.io/) : [https://public-en.node.kaia.io](https://public-en.node.kaia.io) 
+- By [BlockPI Network](https://blockpi.io/) : [https://kaia.blockpi.network/v1/rpc/public](https://kaia.blockpi.network/v1/rpc/public)
+- By [QuickNode](https://www.quicknode.com/) : [https://alpha-hardworking-orb.kaia-mainnet.quiknode.pro/](https://alpha-hardworking-orb.kaia-mainnet.quiknode.pro)
+- By [Pocket Network](https://docs.pokt.network/) : [https://kaia-mainnet.rpc.grove.city/v1/803ceedf](https://kaia-mainnet.rpc.grove.city/v1/803ceedf)
+
 - For more details please refer [here](https://docs.kaia.io/references/public-en/) - Contains list of public json rpc endpoints.
 
 ## Chain Data Explorers
