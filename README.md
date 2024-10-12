@@ -68,7 +68,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 - For more details please refer [here](https://docs.kaia.io/references/public-en/) - Contains list of public json rpc endpoints.
 
 ## Chain Data Explorers
-- [Klaytnfinder](https://klaytnfinder.io/)
+- [KaiaScan](https://kaiascan.io/)
 - [OKLink Klaytn Explorer](https://www.oklink.com/klaytn)
 - [KaiaScope](https://scope.klaytn.com/)
 - [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
