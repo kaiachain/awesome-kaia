@@ -43,7 +43,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Presentations](#presentations)
 
 ## Developer Communication Channels and Forums
-- [Discord](https://discord.gg/aY8mrCGANk)
+- [Discord](http://discord.gg/kaiachain)
 - [Kaia Developer Forum](https://devforum.kaia.io/)
 - [Kaia Developers Facebook](https://www.facebook.com/groups/klaytndevelopers)
 - [Korea Blockchain Meetup](https://www.meetup.com/ko-KR/korea-blockchain-meetup/)
@@ -63,7 +63,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 
 ## Chain Data Explorers
 - [KaiaScan](https://kaiascan.io/)
-- [OKLink Klaytn Explorer](https://www.oklink.com/klaytn)
+- [OKLink Klaytn Explorer](https://www.oklink.com/kaia)
 - [KaiaScope](https://scope.klaytn.com/)
 - [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
 - [Bitquery](https://explorer.bitquery.io/klaytn)
@@ -89,7 +89,7 @@ This page introduces all links related to core and ecosystem development of Kaia
   - [OKX wallet](https://www.okx.com/web3)
   - [Bit2Me](https://bit2me.com/suite/wallet-klaytn)
 - Browser Extension Wallets
-  - [Kaikas](https://chrome.google.com/webstore/detail/kaikas/jblndlipeogpafnldhgmapagcccfchpi) - [Documentation](https://docs.kaikas.io/)
+  - [Kaia Wallet](https://www.kaiawallet.io/) - [Documentation](https://docs.kaiawallet.io/)
   - [Dekey](https://chrome.google.com/webstore/detail/dekey/cekclnkpicopjiagjphfoahcinhmgbjp)
   - [COIN98](https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg)
   - [web3auth](https://web3auth.io/) - [Documentation](https://web3auth.io/docs/connect-blockchain/klaytn)
@@ -184,7 +184,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 
 
 ## Status Pages
-- [Kaia Network Status Page](https://status.klaytn.foundation)
+- [Kaia Network Status Page](https://status.kaia.io)
 - [Kaia API Service Status Page](https://status.klaytnapi.com)
 - Public Endpoint Status Pages
   - [DSRV](https://www.allthatnode.com/klaytn.dsrv)
