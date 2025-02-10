@@ -168,8 +168,6 @@ This page introduces all links related to core and ecosystem development of Kaia
 
 ## NFT Marketplaces
 - [OpenSea](https://opensea.io/)
-- [klaymint](https://www.klaymint.io/)
-- [XClusive](https://xclusive.market/marketplace/collections?Chain=KLAYTN)
  
 ## dApp Directory Services
 - [DappRadar](https://dappradar.com/rankings/protocol/klaytn)
