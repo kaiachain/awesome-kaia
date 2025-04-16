@@ -192,6 +192,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Witnet](https://feeds.witnet.io/klaytn)
 - [SupraOracles](https://data.supraoracles.com/networks/klaytn)
 - [KlayOracle](https://www.klayoracle.com/)
+- [Olas](https://olas.network/)
 
 ## Bridges
 - [Stargate](https://stargate.finance/)
