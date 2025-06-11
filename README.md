@@ -44,9 +44,9 @@ This page introduces all links related to core and ecosystem development of Kaia
 
 ## Developer Communication Channels and Forums
 - [Discord](http://discord.gg/kaiachain)
+- [X](https://x.com/BuildonKaia)
+- [Reddit](https://www.reddit.com/r/kaiachain)
 - [Kaia Developer Forum](https://devforum.kaia.io/)
-- [Kaia Developers Facebook](https://www.facebook.com/groups/klaytndevelopers)
-- [Korea Blockchain Meetup](https://www.meetup.com/ko-KR/korea-blockchain-meetup/)
 
 ## Documentation
 - Kaia Docs ([EN](https://docs.kaia.io/), [한](https://ko.docs.kaia.io/)) - Introduces Kaia, an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions of users.
@@ -62,11 +62,10 @@ This page introduces all links related to core and ecosystem development of Kaia
 - For more details please refer [here](https://docs.kaia.io/references/public-en/) - Contains list of public json rpc endpoints.
 
 ## Chain Data Explorers
-- [KaiaScan](https://kaiascan.io/)
-- [OKLink Klaytn Explorer](https://www.oklink.com/kaia)
-- [KaiaScope](https://scope.klaytn.com/)
-- [LIVE COIN WATCH](https://www.livecoinwatch.com/?platforms=KLAY)
-- [Bitquery](https://explorer.bitquery.io/klaytn)
+- [Kaiascan](https://kaiascan.io/)
+- [OKLink Kaia Explorer](https://www.oklink.com/kaia)
+- [Kaiascope](https://kaiascope.com)
+- [LIVE COIN WATCH](https://www.livecoinwatch.com/price/Kaia-KAIA)
 
 ## Wallets
 - Mobile Wallets
@@ -79,7 +78,6 @@ This page introduces all links related to core and ecosystem development of Kaia
   - [Alphawallet](https://alphawallet.com/)
   - [BitKeep](https://bitkeep.com/)
   - [Trustkeys](https://trustkeys.network/)
-  - [Nest](https://nes.tech/)
   - [Math Wallet](https://mathwallet.org/ko-kr/)
   - [Favorlet](https://favorlet.io/)
   - [ABC Wallet](https://myabcwallet.io/en/)
@@ -87,12 +85,10 @@ This page introduces all links related to core and ecosystem development of Kaia
   - [Burrito](https://www.burritowallet.com/)
   - [Midas Protocol](https://midasprotocol.io/)
   - [OKX wallet](https://www.okx.com/web3)
-  - [Bit2Me](https://bit2me.com/suite/wallet-klaytn)
 - Browser Extension Wallets
   - [Kaia Wallet](https://www.kaiawallet.io/) - [Documentation](https://docs.kaiawallet.io/)
   - [Dekey](https://chrome.google.com/webstore/detail/dekey/cekclnkpicopjiagjphfoahcinhmgbjp)
   - [COIN98](https://chrome.google.com/webstore/detail/coin98-wallet/aeachknmefphepccionboohckonoeemg)
-  - [web3auth](https://web3auth.io/) - [Documentation](https://web3auth.io/docs/connect-blockchain/klaytn)
   - [ABC Wallet](https://chrome.google.com/webstore/detail/abc-wallet/mlhakagmgkmonhdonhkpjeebfphligng)
   - [MetaMask](https://metamask.io/) - [Documentation](https://docs.metamask.io/)
 
@@ -109,12 +105,12 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [tatum-js](https://github.com/tatumio/tatum-js) - JavaScript client to interact with a Kaia node through Tatum APIs.
 - [mint.club](https://sdk.mint.club/) - SDK to create and trade bonding curve tokens / NFTs with automated liquidity.
 
-
 ## Services running on Kaia
 - [Services running on Kaia](https://github.com/kaiachain/awesome-kaia/blob/main/Services.md) - Contains public services running on Kaia.
 
 ## API Services
-- [Kaia API Service](https://www.klaytnapi.com/) - Documentation ([EN](https://docs.klaytnapi.com/v/en/), [한](https://docs.klaytnapi.com/)).
+- [Kaiascan OAPI](https://docs.kaiascan.io/)
+- [KAS API Service](https://www.klaytnapi.com/) - [Documentation](https://docs.klaytnapi.com/).
 - [Public JSON-RPC Endpoints](https://docs.kaia.io/references/public-en/)
 - [JSON-RPC Endpoint Services (Paid Plans)](https://docs.kaia.io/references/public-en/#rpc-service-providers)
 - [Tatum](https://tatum.io/) - [Documentation](https://docs.tatum.io/reference/klaytngeneratewallet)
@@ -124,9 +120,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Octet](https://octet.im/product/) - Documentation ([EN](https://docs.octet.im/v2.0-eng/docs), [한](https://docs.octet.im/docs)).
 - [BlockSDK](https://blocksdk.com/) - [Documentation](https://documenter.getpostman.com/view/20292093/Uz5FKwxw#7b85cc54-fd97-4a30-9a6b-06808938c1bc)
 - [Swapscanner API](https://swapscanner.io/) - [Documentation](https://docs.api.swapscanner.io/)
-
-## Naming Services
-- [KNS](https://klaytn.domains/) - [Documentation](https://docs.klaytn.domains/)
+- [1inch API](https://1inch.io/page-api/)
 
 ## Development Tools
 - [Remix](https://remix.ethereum.org/) - No-setup tool with a GUI for developing smart contracts.
@@ -137,61 +131,51 @@ This page introduces all links related to core and ecosystem development of Kaia
 
 ## Starter Kits
 - [Smart contracts for Kaia](https://github.com/kaiachain/kaia-contracts) - Library for secure smart contract development.
-- [Kaia-dapp-mono](https://github.com/kaiachain/kaia-dapp-mono) - Boilerplate code for frontend and backend that are helpful to building blockchain applications on Klaytn.
-- [kaia-0.5.6-Boilerplate](https://github.com/GaeJobBu/klaytn-0.5.6-Boilerplate) - Klaytn smart contract development environment boiler plate.
-- [kaia-batch-transfer](https://github.com/GaeJobBu/klay-batch-transfer) - Klaytn batch transfer based on smart contracts.
-- [kip37-snapshot](https://github.com/GaeJobBu/kip37-snapshot) - Creates a snapshot of any KIP37 token in JSON or CSV format.
-
-## Useful Packages
-- Wrapped-kaia standard - [GitHub](https://github.com/klaytn/canonical-wklay), [Npm](https://www.npmjs.com/package/canonical-wklay) Standard for wrapped KAIA for dapps.
-  - Mainnet - : [0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432](https://scope.klaytn.com/account/0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432?tabId=txList)
-  - Kairos Testnet - : [0x043c471bEe060e00A56CcD02c0Ca286808a5A436](https://baobab.scope.klaytn.com/account/0x043c471bEe060e00A56CcD02c0Ca286808a5A436?tabId=txList)
+- [Kaia Dapp Mono](https://github.com/kaiachain/kaia-dapp-mono) - Boilerplate code for frontend and backend that are helpful to building blockchain applications on Kaia.
+- [Kaia Agent Kit](https://github.com/kaiachain/kaia-agent-kit) - Kaia Agent Kit is a comprehensive toolkit designed to help developers build, deploy, and manage AI agents efficiently on Kaia.
 
 ## Sample Apps and Examples
-- Kaia Online Toolkit - [Website](https://toolkit.kaia.io/), [GitHub](https://github.com/kaiachain/kaia-online-toolkit) An Easy Interactive UI tool containing code snippets for Kaia SDK(caver-js) utilization.
-- NFT Minting example - [FE](https://github.com/klaytn/klaytn-nft-minter-frontend), [BE](https://github.com/klaytn/klaytn-nft-minter-backend)
-<!-- - [caver-js-examples](https://github.com/klaytn/caver-js-examples)
-- [caver-java-examples](https://github.com/klaytn/caver-java-examples) -->
-- [CN Staking contract tests](https://github.com/klaytn/cn-staking-contract-tests)
-- [NFT Transfer on Cypress using Metamask](https://github.com/Yeonju-Kim/nft-transfer-klaytn)
+- Kaia Toolkit - [Website](https://toolkit.kaia.io/), [GitHub](https://github.com/kaiachain/kaia-online-toolkit) An Easy Interactive UI tool containing code snippets for Kaia SDK(caver-js) utilization.
 - Soulbound token - Solidity smart contracts, deployment and test scripts for Soulbound token (SBT).
   - [Contract repository](https://github.com/bisonai/sbt-contracts)
   - [Contract npm package](https://www.npmjs.com/package/@bisonai/sbt-contracts)
   - [Typescript interface repository](https://github.com/bisonai/sbt-js)
   - [Typescript interface npm package](https://www.npmjs.com/package/@bisonai/sbt-js)
+- [DgSwap Multiswap Multicall](https://github.com/PaulElisha/dgswap-multiswap-multicall) - Leverages multicall on Dragonswap V3 to enable multiple swaps in a single block.
 
 ## Useful contract addresses deployed on Kaia
 - [MultiCall Contract](https://github.com/makerdao/multicall) - Aggregates multiple constant function call results into one.
-  - [Cypress](https://scope.klaytn.com/account/0x5f5f0d1b9ff8b3dcace308e39b13b203354906e9) 
-  - [Kairos Testnet](https://baobab.scope.klaytn.com/account/0x40643B8Aeaaca0b87Ea1A1E596e64a0e14B1d244)
+  - [Kaia Mainnet](https://kaiascan.io/address/0x5f5f0d1b9ff8b3dcace308e39b13b203354906e9) 
+  - [Kairos Testnet](https://kairos.kaiascan.io/address/0x40643b8aeaaca0b87ea1a1e596e64a0e14b1d244)
 - [Kaia-multicall](https://github.com/inevitable-changes/klaytn-multicall)
+- [Permit2 Contract](https://github.com/PaulElisha/permit2)
 
 ## NFT Marketplaces
+- [Dapp Portal](https://www.dappportal.io/market)
+- [OKX NFT Marketplace](https://web3.okx.com/nft)
+- [3space Art](https://3space.art/)
 - [OpenSea](https://opensea.io/)
  
 ## dApp Directory Services
-- [DappRadar](https://dappradar.com/rankings/protocol/klaytn)
-- [State of the dApps](https://www.stateofthedapps.com/ko/rankings/platform/klaytn)
+- [DApp Portal](https://www.dappportal.io/o)
+- [DappRadar](https://dappradar.com/rankings/protocol/kaia)
 
 ## Analytics
-- [FlipSide](https://flipsidecrypto.xyz/)
-- [DEX screener](https://dexscreener.com/klaytn)
-- [DefiLlama](https://defillama.com/chain/Klaytn)
-- [CryptoQuant](https://cryptoquant.com/asset/klay/summary)
-- [NFT Stat](https://nftstat.io)
-
+- [Dune Analytics](https://dune.com/chains/kaia)
+- [DefiLlama](https://defillama.com/chain/kaia)
+- [CryptoQuant](https://cryptoquant.com/asset/kaia/summary)
 
 ## Status Pages
 - [Kaia Network Status Page](https://status.kaia.io)
-- [Kaia API Service Status Page](https://status.klaytnapi.com)
+- [KAS Status Page](https://status.klaytnapi.com)
 - Public Endpoint Status Pages
-  - [DSRV](https://www.allthatnode.com/klaytn.dsrv)
+  - [DSRV](https://www.allthatnode.com/kaia.dsrv)
  
 ## Oracles
+- [Pyth Network](https://www.pyth.network/price-feeds/crypto-kaia-usd)
 - [Orakl](https://www.orakl.network/)
-- [Witnet](https://feeds.witnet.io/klaytn)
-- [SupraOracles](https://data.supraoracles.com/networks/klaytn)
-- [KlayOracle](https://www.klayoracle.com/)
+- [Witnet](https://feeds.witnet.io/kaia)
+- [SupraOracles](https://docs.supra.com/oracles)
 
 ## Bridges
 - [Stargate](https://stargate.finance/)
@@ -200,15 +184,15 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Wormhole](https://www.portalbridge.com)
 - [cBridge](https://cbridge.celer.network/8217/1/DAI)
 - [AllBridge](https://app.allbridge.io/bridge?from=KLAY&to=ETH&asset=ABR)
-- [XY Finance](https://app.xy.finance/)
 
 ## DEXs
 - [KaiaSwap](https://kaiaswap.org/trade/swap)
 - [Capybara](https://www.capybara.exchange/)
-- [Dragon Swap](https://dgswap.io/)
+- [DragonSwap](https://dgswap.io/)
 - [KLAYswap](https://klayswap.com/)
 - [Pangea Swap](https://www.pangeaswap.com/)
-- [PalaDEX](https://pala.io/dex/pool)
+- [Ufoswap](https://ufoswap.fi)
+- [ClaimSwap](https://claimswap.org/)
 - [Swapscanner](https://swapscanner.io)
 - [1inch](https://app.1inch.io/#/8217/simple/swap/KLAY/KDAI)
 - [Open Source Dex](https://dex.baobab.klaytn.net/) 
@@ -220,27 +204,16 @@ This page introduces all links related to core and ecosystem development of Kaia
 ## Governance/Voting Tools 
 - [XDAO](https://www.xdao.app/) - Smart DAO builder that allows you to create DAO and safely manage collective crypto assets using a clear and convenient interface.
 - [Snapshot.org](https://snapshot.org/#/?type=networks&q=klaytn) - Voting tool based on the IPFS decentralized storage system.
+- [Kommune DAO](https://kommunedao.xyz) - Leads the way as Kaia's first community-driven Governance Council member.
 
-## Community Management Tools
-- [Discord Bot](https://bot.metaoneer.club/)
 
 ## Telegram Trading Bots
 - [Arrow Bot](https://web.telegram.org/k/#@ArrowTradingBot)
 
-<!-- ## Deployment Tools
-- [Local Network Deployment Tool using docker-compose](https://github.com/klaytn/local-klaytn-deploy)
-- [ServiceChain Deployment Tool](https://github.com/klaytn/servicechain-deploy)
-- [Kaia Terraform Modules](https://github.com/klaytn/servicechain) - Terraform modules set to create various resources regarding Kaia.
-- [Kaia Ansible Modules](https://github.com/klaytn/klaytn-ansible) - Ansible modules for installing and using Kaia.
-- [Kaiaspray](https://github.com/klaytn/klayspray) - Deploys Kaia network in various cloud providers.
- 
-## Network Testers
-- [Kaia Network Deployment and Integration Tester](https://github.com/klaytn/klaytn-deploy) - Contains deployment details, monitoring and load testing using Locust.
-- [Kaia Node RPC tester](https://github.com/klaytn/klaytn-rpc-tester) - Checks basic operations of Kaia RPC/WebSocket APIs.
-- [Kaia Load Tester](https://github.com/klaytn/klaytn-load-tester) - Load tester using boomer library and it is written in golang. -->
 
+## Archive 
 
-## Useful Article Links by Community Members
+### Useful Article Links by Community Members
 - [Building with Kaia](https://oxpampam.hashnode.dev/building-with-klaytn-what-is-klaytn-and-how-to-get-started-as-a-developer)
 - [Beginner's Guide To Kaikas Wallet](https://oxpampam.hashnode.dev/the-beginners-guide-to-kaikas)
 - [Create and Deploy your First Smart Contract with Kaia IDE](https://oxpampam.hashnode.dev/create-and-deploy-your-first-smart-contract-with-klaytn-ide)
@@ -250,18 +223,13 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Kaia Kairos Faucet: Solidity Smart Contract](https://oxpampam.hashnode.dev/klaytn-baobab-faucet-solidity-smart-contract)
 - [Beginner's guide on how to add Kaia to Metamask](https://oxpampam.hashnode.dev/beginners-guide-on-how-to-add-klaytn-to-metamask)
 
-## Useful Article Links by Community Members in Korean
+### Useful Article Links by Community Members in Korean
 - [개발없이 Kaia NFT 발행하기 - Klay-Gacha-Machine](https://medium.com/@eklee808/%EA%B0%9C%EB%B0%9C%EC%97%86%EC%9D%B4-%ED%81%B4%EB%A0%88%EC%9D%B4-%EC%A0%9C%EB%84%88%EB%9F%AC%ED%8B%B0%EB%B8%8C-nft-%EB%B0%9C%ED%96%89%ED%95%98%EA%B8%B0-1-klay-gacha-machine-eb17496e8b22)
 
-## Video lectures and presentations in Korean
+### Video lectures and presentations in Korean
 - [Video lectures and presentations in Korean](https://github.com/klaytn/awesome-klaytn/blob/main/contents_kr.md)
 
-## Presentations
+### Presentations
 - [(2023/10/10) KlayMakers23 Workshop](https://dorahacks.io/hackathon/klaymakers23/workshop)
 - [(2022/08/19) KlayMakers22 Workshop](https://dorahacks.io/hackathon/klaymakers22/workshop)
 - [(2022/03/03) [Klaytn - Covalent Joint Developer Webinar] Covalent Unified API Integrated with Klaytn Ecosystem](https://www.youtube.com/watch?v=BM3QzKEVi2U)
-- [(2022/02/12) [Paul Barron Network Interview] Klaytn interview | Dynamic NFTs & Layer 1 Metaverse](https://www.youtube.com/watch?v=HK64ecRSlpg)
-- [(2021/08/05) [Smart Contract Summit #1] Klaytn Tech Stack for NFT](https://www.smartcontractsummit.io/)
-- [(2019/10/08) [ETH Devcon5] Extending Ethereum's Account and Transaction Models in Klaytn](https://archive.devcon.org/archive/watch/5/extending-ethereums-account-and-transaction-models-in-klaytn/?tab=YouTube)
-- [(2019/10/08) [KryptoOsaka] Klaytn - The Ground for All Blockchain Services](https://www.eventbrite.com/e/kryptoosaka-buidling-projects-of-east-and-west-tickets-74307566933#)
-- [(2018/11/29) [BUIDL Seoul 2018] Exploiting Parallelism with Lightweight Threads in Klaytn](https://buidl.kr/)
