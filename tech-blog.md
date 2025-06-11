@@ -1,16 +1,37 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="./images/Klaytn_Techblog.png" width="600" height="73"/>
-</p>
+</p> -->
 
-Here you can find our latest articles and updates from the [Kaia Tech Blog](https://medium.com/klaytn/tagged/technology).
+Here you can find our latest articles and updates from the [Kaia Tech Blog](https://medium.com/kaiachain/tagged/tutorial).
 
 # Recent Updates
+
+How to Access Kaiachain data using Kaiascan API ([한국어](https://medium.com/kaiachain/kaiascan-api%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-kaia-%EC%B2%B4%EC%9D%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-11bf1ed6e3fb?source=---------0-----------------------), [English](https://medium.com/kaiachain/how-to-access-kaiachain-data-using-kaiascan-api-30c56ae0f2ae))
+
+How to Index KIP7 Transfer on Kaia using Envio + Quicknode ([한국어](https://medium.com/kaiachain/envio%EC%99%80-quicknode%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-kaia%EC%97%90%EC%84%9C-kip7-%EC%A0%84%EC%86%A1%EC%9D%84-%EC%9D%B8%EB%8D%B1%EC%8B%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-de12748ab631), [English](https://medium.com/kaiachain/how-to-index-kip7-transfer-on-kaia-using-envio-quicknode-a3be9b22dea3))
+
 Preparations for the Upcoming Kaia Chain Token Swap ([한국어](https://medium.com/klaytn-kr/%EC%8B%A0%EA%B7%9C-kaia-%EC%B2%B4%EC%9D%B8-%EB%9F%B0%EC%B9%AD%EC%97%90-%EB%94%B0%EB%A5%B8-%ED%86%A0%ED%81%B0-%EC%8A%A4%EC%99%91-%EC%95%88%EB%82%B4-78b79424df9a), [English](https://medium.com/klaytn/preparations-for-the-upcoming-kaia-chain-token-swap-dff4eda55f7d))
 
 Say hello to Kaia ([한국어](https://medium.com/klaytn-kr/say-hello-to-kaia-5ac286713434), [English](https://medium.com/klaytn/say-hello-to-kaia-4182ccafe456))
 
-Verifying contracts using Hardhat on Klaytnscope ([한국어](https://medium.com/klaytn-kr/klaytnscope%EC%97%90%EC%84%9C-hardhat%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-004dd274ca08), [English](https://klaytn.foundation/verifying-contracts-using-hardhat-on-klaytnscope))
+# Archive
+
+## Releases and Updates
+
+caver-java/js v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/%EA%B3%B5%EC%A7%80-kas-sdk-caver-js-java-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-83ee778f0273), [English](https://medium.com/klaytn/notice-kas-sdk-caver-js-java-v1-8-0-release-e63477e9d245) )
+
+caver-js v1.6.3 Release ([한국어](https://medium.com/@klaytn-tech/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-java-v1-6-3-%EB%A6%B4%EB%A6%AC%EC%A6%88-dbdf0506e4a5), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-java-v1-6-3-released-86dc93bf3edf) )
+
+caver-java v1.6.1 ([한국어](https://medium.com/@klaytn-tech/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-java-v1-6-1-%EB%A6%B4%EB%A6%AC%EC%A6%88-5efd8606c84b), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-java-v1-6-1-released-78a0987a9c53) )
+
+caver-js v1.6.1 ([한국어](https://medium.com/klaytn/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-js-v1-6-1-%EB%A6%B4%EB%A6%AC%EC%A6%88-47c6ab6efbc4), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-js-v1-6-1-released-fba5288ee5f7) )
+
+caver-js v1.6.0 ([한국어](https://medium.com/klaytn/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-js-v1-6-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-96369794c693), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-js-v1-6-0-released-9bc1c5d7c9ff) )
+
+## Tutorials
+
+Verifying contracts using Hardhat on Kaiascope ([한국어](https://medium.com/klaytn-kr/klaytnscope%EC%97%90%EC%84%9C-hardhat%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0-004dd274ca08), [English](https://klaytn.foundation/verifying-contracts-using-hardhat-on-klaytnscope))
 
 Building an NFT Collection Gallery on Kaia using React.js and Unmarshal SDK ([한국어](https://medium.com/klaytn-kr/react-js%EC%99%80-unmarshal-sdk%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-klaytn%EC%97%90%EC%84%9C-nft-%EC%BB%AC%EB%A0%89%EC%85%98-%EA%B0%A4%EB%9F%AC%EB%A6%AC-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-8c75a2573315), [English](https://medium.com/klaytn/building-an-nft-collection-gallery-on-klaytn-using-react-js-and-unmarshal-sdk-2d5b5c05bbba))
 
@@ -29,30 +50,6 @@ Using Kaia Plugin on Remix ([한국어](https://medium.com/klaytn-kr/%EB%A6%AC%E
 Using SnapShot for your Kaia Project Governance ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%8A%A4%EB%83%85%EC%83%B7-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c31f27a9fecb), [English](https://medium.com/klaytn/using-snapshot-for-your-klaytn-project-governance-1ced3ff6244) )
 
 A Comparison of blockchain network latencies ([한국어](https://medium.com/klaytn-kr/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%80-d42b7a437616), [English](https://medium.com/klaytn/a-comparison-of-blockchain-network-latencies-7508509b8460) )
-
-<!-- Klaytn's Strengths as a L1 Mainnet ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC%EC%9D%B4-layer-1-%EB%A9%94%EC%9D%B8%EB%84%B7%EC%9C%BC%EB%A1%9C%EC%84%9C-%EA%B0%96%EB%8A%94-%EA%B2%BD%EC%9F%81%EB%A0%A5-52eff32a6d8f), [English](https://medium.com/klaytn/klaytns-strengths-as-a-layer-1-mainnet-46981c5201cc) )
-
-Demystifying Misconceptions on Klaytn's Technology ([한국어](https://medium.com/klaytn-kr/%ED%81%B4%EB%A0%88%EC%9D%B4%ED%8A%BC-%EA%B8%B0%EC%88%A0%EB%A0%A5%EC%97%90-%EA%B4%80%ED%95%9C-%EC%98%A4%ED%95%B4%EB%A5%BC-%ED%92%80%EC%96%B4%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4-bb666933e146), [English](https://medium.com/klaytn/demystifying-misconceptions-on-klaytns-technology-874d6573e66a) )
-
-Overview on Klaytn Architecture ([한국어](https://medium.com/klaytn-kr/an-overview-of-klaytn-architecture-2dc9af129609), [English](https://medium.com/klaytn/an-overview-of-klaytn-architecture-456535defab9) ) -->
-
-# Archive
-
-## Releases and Updates
-
-### Kaia
-
-### caver
-
-caver-java/js v1.8.0 Release Notes ([한국어](https://medium.com/klaytn-kr/%EA%B3%B5%EC%A7%80-kas-sdk-caver-js-java-v1-8-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-83ee778f0273), [English](https://medium.com/klaytn/notice-kas-sdk-caver-js-java-v1-8-0-release-e63477e9d245) )
-
-caver-js v1.6.3 Release ([한국어](https://medium.com/@klaytn-tech/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-java-v1-6-3-%EB%A6%B4%EB%A6%AC%EC%A6%88-dbdf0506e4a5), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-java-v1-6-3-released-86dc93bf3edf) )
-
-caver-java v1.6.1 ([한국어](https://medium.com/@klaytn-tech/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-java-v1-6-1-%EB%A6%B4%EB%A6%AC%EC%A6%88-5efd8606c84b), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-java-v1-6-1-released-78a0987a9c53) )
-
-caver-js v1.6.1 ([한국어](https://medium.com/klaytn/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-js-v1-6-1-%EB%A6%B4%EB%A6%AC%EC%A6%88-47c6ab6efbc4), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-js-v1-6-1-released-fba5288ee5f7) )
-
-caver-js v1.6.0 ([한국어](https://medium.com/klaytn/%EA%B3%B5%EC%A7%80-klaytn-sdk-caver-js-v1-6-0-%EB%A6%B4%EB%A6%AC%EC%A6%88-96369794c693), [English](https://medium.com/klaytn/notice-klaytn-sdk-caver-js-v1-6-0-released-9bc1c5d7c9ff) )
 
 ## Technology
 
@@ -94,25 +91,6 @@ Common Architecture of Caver ([한국어](https://medium.com/klaytn/common-archi
 [Wallet] GroundX Wallets #1 Kaikas ([한국어](https://medium.com/klaytn/groundx%EC%9D%98-%EC%9B%94%EB%A0%9B-1-kaikas-6185191cbab2), [English](https://medium.com/klaytn/groundx-wallets-1-kaikas-c8a65facad3a), [Spanish](https://medium.com/klaytn/criptocarteras-de-groundx-1-kaikas-56608ea5154b), [German](https://medium.com/klaytn/groundx-krypto-wallets-1-kaikas-ad823ef9b996))
 
 Kaikas: Experience the Klaytn Wallet in Your Browser ([한국어,English](https://medium.com/klaytn/kaikas-experience-the-klaytn-wallet-in-your-browser-23771b11087f?source=---------30-----------------------) )
-
-<!-- ## Tutorials
-
-[Caver] How to Update Klaytn Account Keys with Caver #3 ([한국어](https://medium.com/klaytn/caver-caver%EB%A1%9C-klaytn-%EA%B3%84%EC%A0%95%EC%9D%98-%ED%82%A4%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EB%B2%95-3-accountkeyrolebased-88c20b405f18), [English](https://medium.com/klaytn/caver-how-to-update-klaytn-account-keys-with-caver-3-accountkeyrolebased-eb06433ff8da), [French](https://medium.com/klaytn/caver-mettre-%C3%A0-jour-la-cl%C3%A9-de-compte-de-klaytn-avec-caver-3-accountkeyrolebased-e9a0e41f7f58), [German](https://medium.com/klaytn/caver-how-to-update-klaytn-account-keys-with-caver-3-accountkeyrolebased-3bb4a01ce59a) )
-
-[Caver] How to Update Klaytn Account Keys with Caver #2 ([한국어](https://medium.com/klaytn/caver-caver%EB%A1%9C-klaytn-%EA%B3%84%EC%A0%95%EC%9D%98-%ED%82%A4%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EB%B2%95-2-accountkeyweightedmultisig-c317a785299), [English](https://klaytn-tech.medium.com/ed897b4e5b5b), [French](https://medium.com/klaytn/caver-mettre-%C3%A0-jour-la-cl%C3%A9-de-compte-de-klaytn-avec-caver-2-accountkeyweightedmultisig-9bfb81e56e3e), [German](https://klaytn-tech.medium.com/caver-how-to-update-klaytn-account-keys-with-caver-2-accountkeyweightedmultisig-ed1249d06dcf) )
-
-[Caver] How to Update Klaytn Account Keys with Caver #1 ([한국어](https://medium.com/klaytn/caver-caver%EB%A1%9C-klaytn-%EA%B3%84%EC%A0%95%EC%9D%98-%ED%82%A4%EB%A5%BC-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EB%B2%95-1-accountkeypublic-7f8a7197e2d4), [English](https://medium.com/klaytn/caver-how-to-update-klaytn-account-keys-with-caver-1-accountkeypublic-30336b8f0b50), [French](https://medium.com/klaytn/caver-mettre-%C3%A0-jour-la-cl%C3%A9-de-compte-de-klaytn-avec-caver-1-accountkeypublic-d7216ed1c7bc), [German](https://medium.com/klaytn/caver-klaytn-kontoschl%C3%BCssel-updaten-mit-caver-1-accountkeypublic-b1f7dc51b7b) )
-
-[Caver] How to Use Fee Delegation with Contract ([한국어](https://medium.com/klaytn/caver-contract%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%88%98%EC%88%98%EB%A3%8C%EB%A5%BC-%EB%8C%80%EB%82%A9%ED%95%B4%EB%B3%B4%EC%9E%90-4c046900c4ed), [English](https://medium.com/klaytn/caver-how-to-use-fee-delegation-with-contract-c599388c7cc0), [German](https://medium.com/klaytn/caver-wie-verwendet-man-fee-delegation-mit-contract-aada611dc735) )
-
-[KAS SDK] KASWallet, a wallet integrated with KAS API ([한국어](https://medium.com/klaytn/kas-sdk-kas-api%EC%99%80-%ED%86%B5%ED%95%A9%EB%90%9C-%EC%A7%80%EA%B0%91-kaswallet-5305ee90b6ca), [English](https://medium.com/klaytn/kas-sdk-kaswallet-a-wallet-integrated-with-kas-api-c07ab4c2b003) )
-
-Using IPFS with Caver ([한국어](https://medium.com/klaytn/caver%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-ipfs-%EC%82%AC%EC%9A%A9%EB%B2%95-4889a3b29c0b?source=collection_home---4------2-----------------------), [English](https://medium.com/klaytn/using-ipfs-with-caver-964e1f721bfe) )
-
-[Caver-java] Dynamic ABI Loader ([한국어](https://medium.com/klaytn/caver-java-dynamic-abi-loader-8ccef10e7e68?source=collection_home---4------4-----------------------), [English](https://medium.com/klaytn/caver-java-dynamic-abi-loader-5b116c9db673) )
-
-Developing Klaytn Wallet with KAS #1 ([한국어](https://medium.com/klaytn/kas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-klaytn-%EC%A7%80%EA%B0%91-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-ced7b6d97668), [English](https://medium.com/klaytn/developing-klaytn-wallet-with-kas-1-c99df1ff8e8e) ) -->
-
 
 ## Incident Reports
 
