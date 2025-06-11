@@ -1,10 +1,9 @@
 # Developer Resources
 
-* Kaia Developer Hub: https://developer.kaia.io/
-* What is Kaia? https://www.youtube.com/watch?v=m2Ou-PxEHJ0
+* Kaia Developer Hub: https://www.kaia.io/developers
 * Kaia Foundation: https://www.kaia.io/
 
-All the developer resources will be available at [Kaia Developer Hub](https://developer.kaia.io/). There is also a list of resources available for developers:
+All the developer resources will be available at [Kaia Developer Hub](https://www.kaia.io/developers). There is also a list of resources available for developers:
 
 ## Kaia Architecture:
 * Kaia Docs : https://docs.kaia.io/ 	
@@ -24,6 +23,8 @@ All the developer resources will be available at [Kaia Developer Hub](https://de
 * Kaia core: https://github.com/kaiachain
 * Kaia-dapp-mono: https://github.com/kaiachain/kaia-dapp-mono 
 * Awesome-Kaia: https://github.com/kaiachain/awesome-kaia
+* Kaia Toolkit: https://github.com/kaiachain/kaia-online-toolkit
+* Kaia Agent Kit : https://github.com/kaiachain/kaia-agent-kit
 * Caver-js: https://github.com/kaiachain/caver-js
 * Kaia contract library: https://github.com/kaiachain/kaia-contracts   
 * And many more...at https://github.com/kaiachain
@@ -31,9 +32,6 @@ All the developer resources will be available at [Kaia Developer Hub](https://de
 ## Related Documentations:
 * Kaia Tech Blog: https://medium.com/kaiachain 
 * Quick Guides : https://docs.kaia.io/build/tutorials/ 
-* [Easily Onboard dApp users on Kaia with social logins](https://medium.com/klaytn/easily-onboard-dapp-users-on-klaytn-with-web3-social-logins-73c2c058fbfc)
-* [Building a dApp on kaia using Thirdweb](https://medium.com/klaytn/building-a-dapp-on-klaytn-using-thirdweb-e34b6fa946bc)
-* [How to use web3Klaytn SDK](https://medium.com/klaytn/how-to-use-web3klaytn-sdk-686311853757)
-* [Building an on-chain dynamic SVG NFT on Kaia  using Foundry](https://medium.com/klaytn/building-an-on-chain-dynamic-svg-nft-using-foundry-9bfbdfe0c7c8)
- 
+* [How to Access Kaiachain data using Kaiascan API](https://medium.com/kaiachain/how-to-access-kaiachain-data-using-kaiascan-api-30c56ae0f2ae)
+* [How to Index KIP7 Transfer on Kaia using Envio + Quicknode](https://medium.com/kaiachain/how-to-index-kip7-transfer-on-kaia-using-envio-quicknode-a3be9b22dea3)
  
