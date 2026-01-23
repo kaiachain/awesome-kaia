@@ -1,6 +1,6 @@
 # Awesome Kaia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Kaia (KAIA) is a public blockchain designed for the metaverse, gaming, and the creator economy that delivers performance, decentralization, scalability and interoperability.
+Kaia (KAIA) is a public onchain finance infrastructure built to power onchain finance and capital markets in everyday apps.
 
 This page introduces all links related to core and ecosystem development of Kaia.
 
@@ -64,7 +64,6 @@ This page introduces all links related to core and ecosystem development of Kaia
 ## Chain Data Explorers
 - [Kaiascan](https://kaiascan.io/)
 - [OKLink Kaia Explorer](https://www.oklink.com/kaia)
-- [Kaiascope](https://kaiascope.com)
 - [LIVE COIN WATCH](https://www.livecoinwatch.com/price/Kaia-KAIA)
 
 ## Wallets
@@ -154,7 +153,6 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Dapp Portal](https://www.dappportal.io/market)
 - [OKX NFT Marketplace](https://web3.okx.com/nft)
 - [3space Art](https://3space.art/)
-- [OpenSea](https://opensea.io/)
  
 ## dApp Directory Services
 - [DApp Portal](https://www.dappportal.io/o)
@@ -184,6 +182,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Wormhole](https://www.portalbridge.com)
 - [cBridge](https://cbridge.celer.network/8217/1/DAI)
 - [AllBridge](https://app.allbridge.io/bridge?from=KLAY&to=ETH&asset=ABR)
+- [Rhino.fi](https://app.rhino.fi/bridge)
 
 ## DEXs
 - [KaiaSwap](https://kaiaswap.org/trade/swap)
@@ -191,7 +190,6 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [DragonSwap](https://dgswap.io/)
 - [KLAYswap](https://klayswap.com/)
 - [Pangea Swap](https://www.pangeaswap.com/)
-- [Ufoswap](https://ufoswap.fi)
 - [ClaimSwap](https://claimswap.org/)
 - [Swapscanner](https://swapscanner.io)
 - [1inch](https://app.1inch.io/#/8217/simple/swap/KLAY/KDAI)
@@ -200,10 +198,17 @@ This page introduces all links related to core and ecosystem development of Kaia
     - [Dex Dashboard](https://github.com/kaiachain/open-dex-dashboard)
     - [Dex Contracts](https://github.com/kaiachain/open-dex-contracts)
     - [Dex Subgraph](https://github.com/kaiachain/open-dex-subgraphs)
-    
+
+## Cross Chain Providers 
+- [Chainlink CCIP](https://docs.chain.link/ccip)
+- [LayerZero](https://docs.layerzero.network/v2)
+- [Wormhole](https://wormhole.com/docs) 
+
+
+
 ## Governance/Voting Tools 
-- [XDAO](https://www.xdao.app/) - Smart DAO builder that allows you to create DAO and safely manage collective crypto assets using a clear and convenient interface.
-- [Snapshot.org](https://snapshot.org/#/?type=networks&q=klaytn) - Voting tool based on the IPFS decentralized storage system.
+- [XDAO](https://www.xdao.app/8217) - Smart DAO builder that allows you to create DAO and safely manage collective crypto assets using a clear and convenient interface.
+- [Snapshot.org](https://snapshot.org/#/explore?p=snapshot&c=all&n=8217) - Voting tool based on the IPFS decentralized storage system.
 - [Kommune DAO](https://kommunedao.xyz) - Leads the way as Kaia's first community-driven Governance Council member.
 
 

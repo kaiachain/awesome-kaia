@@ -30,8 +30,7 @@ All the developer resources will be available at [Kaia Developer Hub](https://ww
 * And many more...at https://github.com/kaiachain
 
 ## Related Documentations:
-* Kaia Tech Blog: https://medium.com/kaiachain 
+* Kaia Tech Blog: https://blog.kaia.io
 * Quick Guides : https://docs.kaia.io/build/tutorials/ 
-* [How to Access Kaiachain data using Kaiascan API](https://medium.com/kaiachain/how-to-access-kaiachain-data-using-kaiascan-api-30c56ae0f2ae)
-* [How to Index KIP7 Transfer on Kaia using Envio + Quicknode](https://medium.com/kaiachain/how-to-index-kip7-transfer-on-kaia-using-envio-quicknode-a3be9b22dea3)
- 
+* [How to Access Kaiachain data using Kaiascan API](https://blog.kaia.io/how-to-access-kaiachain-data-using-kaiascan-api/)
+* [Using Chainlink’s Token Manager on Kaia](https://blog.kaia.io/using-chainlinks-token-manager-on-kaia/)

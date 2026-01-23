@@ -12,7 +12,6 @@ This page has information about public services running on Klaytn.
     * [Dapp Portal](https://www.dappportal.io/market)
   	* [OKX NFT Marketplace](https://web3.okx.com/nft)
     * [3space Art](https://3space.art/)
-    * [OpenSea](https://opensea.io/)
   * Dashboard
     * [NFTBank](https://nftbank.ai/)
 * Decentralized Finance & Related Services
