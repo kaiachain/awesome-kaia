@@ -31,6 +31,7 @@ This page introduces all links related to core and ecosystem development of Kaia
 - [Oracles](#oracles)
 - [Bridges](#bridges)
 - [DEXs](#dexs)
+- [Cross-chain Tools](#cross-chain-tools)
 - [Governance/Voting Tools](#governancevoting-tools)
 - [Community Management Tools](#community-management-tools)
 - [Deployment Tools](#deployment-tools)
@@ -199,7 +200,7 @@ This page introduces all links related to core and ecosystem development of Kaia
     - [Dex Contracts](https://github.com/kaiachain/open-dex-contracts)
     - [Dex Subgraph](https://github.com/kaiachain/open-dex-subgraphs)
 
-## Cross Chain Providers 
+## Cross-chain Tools 
 - [Chainlink CCIP](https://docs.chain.link/ccip)
 - [LayerZero](https://docs.layerzero.network/v2)
 - [Wormhole](https://wormhole.com/docs) 
